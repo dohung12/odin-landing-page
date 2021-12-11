@@ -27,7 +27,7 @@
 
   --quote-fs: 36px;
   --quote-fw: 300;
-  --quoto-fstyle: italic;
+  --quote-fstyle: italic;
   --quote-color: #1f2937;
 }
 
@@ -125,4 +125,22 @@ h1 {
   height: 300px;
   background-color: var(--quote-bg-color);
   text-align: center;
+}
+
+/* information section */
+.info-container h2 {
+  font-size: var(--info-header-fs);
+  font-weight: var(--info-header-fw);
+  color: var(--info-header-color);
+}
+
+/* quote section */
+.quote-container {
+  background-color: var(--quote-bg-color);
+}
+.quote {
+  font-size: var(--quote-fs);
+  font-weight: var(--quote-fw);
+  font-style: var(--quote-fstyle);
+  color: var(--quote-color);
 }
