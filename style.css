@@ -1,0 +1,28 @@
+/* define general variables */
+:root {
+  /* background color */
+  --dark-bg-color: #1f2937;
+  /* hero main text */
+  --hero-main-fs: 48px;
+  --hero-main-fw: extra-bold;
+  --hero-main-color: #f9faf8;
+  /* hero secondary text, header link text */
+  --hero-secondary-fs: 18px;
+  --hero-secondary-color: #e5e7eb;
+  /* hero logo text */
+  --hero-logo-fs: 24px;
+  --hero-logo-color: #f9faf8;
+  /* button */
+  --btn-color: #3882f6;
+  /* info header text */
+  --info-header-fs: 36px;
+  --info-header-fw: extra-bold;
+  --info-header-color: #1f2937;
+  /* quote */
+  --quote-bg-color: #e5e7eb;
+
+  --quote-fs: 36px;
+  --quote-fw: 300;
+  --quoto-fstyle: italic;
+  --quote-color: #1f2937;
+}
